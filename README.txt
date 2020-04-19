@@ -1,0 +1,1 @@
+This repository contains a Jupyter Notebook showcasing the extraction and manipulation of a dataset from a CSV file using Pandas, A/B test analysis, and actionable insights for targeted users.
